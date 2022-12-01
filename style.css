@@ -1,4 +1,4 @@
-header{
+.cabecalho{
     margin-top: 2px; 
     padding: 10px;
     border: 2px; 
@@ -8,7 +8,7 @@ header{
 
 }
 
-footer{
+.rodape{
     margin-top: 2px; 
     padding: 10px;
     border: 2px;
@@ -30,4 +30,5 @@ footer{
 }
 
 .redesocial{
-}
+    padding: 10px;
+ }
