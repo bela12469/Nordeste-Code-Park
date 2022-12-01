@@ -1,0 +1,26 @@
+header{
+    margin-top: 2px; 
+    padding: 10px;
+    border: 2px;
+    font-size: medium; font-family: Arial, Helvetica, sans-serif;
+    background-color: coral;
+    text-align: right;
+
+}
+
+footer{
+    margin-top: 2px; 
+    padding: 10px;
+    border: 2px;
+    font-size: medium; font-family: Arial, Helvetica, sans-serif;
+    background-color: coral;
+    text-align: center;
+}
+
+.logomarca{
+    display: flex;
+}
+
+.nomemarca{
+    display: flex;
+}
