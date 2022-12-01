@@ -21,7 +21,7 @@
     display: flex; 
 }
 
-    .nomemarca{
+.nomemarca{
     display: flex; 
     justify-content: center;
     font-family: cursive;
@@ -41,3 +41,6 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.home_navbar{
+    list-style: none;
+}
