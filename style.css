@@ -8,30 +8,18 @@
 
 }
 
-.rodape{
-    margin-top: 2px; 
-    padding: 10px;
-    border: 2px;
-    font-size: medium; font-family: Arial, Helvetica, sans-serif;
-    background-color: coral;
-    text-align: center;
-}
-
 .logomarca{
-    display: flex; 
+    display: block;
 }
 
-.nomemarca{
+.nomemarca{ 
     display: flex; 
     justify-content: center;
-    font-family: cursive;
-    font-size: xx-large;
-    color:gainsboro;
+    font-family: cursive
+    font-size medium; 
+    color: gainsboro;
 }
 
-.redesocial{
-    padding: 10px;
- }
 
  .fundodatela{
     background-color: bisque;
@@ -44,3 +32,16 @@
 .home_navbar{
     list-style: none;
 }
+
+.rodape{
+    margin-top: 2px; 
+    padding: 10px;
+    border: 2px;
+    font-size: medium; font-family: Arial, Helvetica, sans-serif;
+    background-color: coral;
+    text-align: center;
+}
+
+.redesocial{
+    padding: 10px;
+ }
